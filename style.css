@@ -5,7 +5,7 @@
 }
 
 .container {
-    background-image: url(./images.JPEG);
+    background-image: url(./image/images.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -20,7 +20,7 @@
     position: fixed;
     width: 30%;
     z-index: 99;
-    flex-wrap: wrap;
+    flex-wrap: wrap; 
 }
 
 .logo img {
